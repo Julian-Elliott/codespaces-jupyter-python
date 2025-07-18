@@ -1,3 +1,11 @@
-# Example:
-# numpy
-# pandas
+# Industry-standard data analysis requirements
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+openpyxl
+pyarrow
+plotly
